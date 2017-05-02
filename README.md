@@ -1,5 +1,5 @@
 # wooyunallbugs
-wooyun_all_bugs
+wooyun_all_bugs_8.8W
 
 链接：http://pan.baidu.com/s/1o8bjYci 密码：gs54
 
