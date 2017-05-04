@@ -16,6 +16,9 @@ ps:注意修改数据库连接密码 conn.php
 10年-14年图片如下
 链接：http://pan.baidu.com/s/1c2xjcpa 密码：vqwq
 
+15年a部分图片如下
+链接：http://pan.baidu.com/s/1nviDCDV 密码：056n
+
 ps:图片资源解压到根目录/upload/下 本地绑定下host  你的图片服务器 static.loner.fm                      
    static.loner.fm 不会关掉的 大家可以放心使用
 ************************************************************************************************
